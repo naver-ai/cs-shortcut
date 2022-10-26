@@ -1,2 +1,2 @@
 # cs-shortcut
-Saving Dense Retriever from Shortcut Dependency in Conversational Search (EMNLP 2022)
+Official code is coming soon! Please stay tuned!
