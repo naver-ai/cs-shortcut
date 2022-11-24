@@ -1,0 +1,13 @@
+__pycache__
+dataset/
+preprocessed/
+outputs/
+test/
+*env/
+*.ipynb
+.DS_Store
+KR*
+language_research*
+figs/
+models/
+.ipynb_checkpoints/
